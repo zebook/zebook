@@ -86,4 +86,4 @@
 
 附录：
 
-关于如何免费畅享科学上网的方法可以参考这个链接：https://github.com/loremwalker/WebSiteUseful
+关于如何免费畅享科学上网的方法可以参考这个友情链接：https://github.com/loremwalker/WebSiteUseful
