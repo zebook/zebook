@@ -53,8 +53,12 @@
        有一定使用门槛，**需全程科学上网**。
 
      - Telegram Web [官方网页版](https://web.telegram.org/#/im)
-     - 
-       有一定使用门槛，**需全程科学上网**。
+     
+       有一定使用门槛，**需全程科学上网**。
+     
+     - 科学上网
+     
+       [关于畅享免费科学上网的方法](https://github.com/loremwalker/WebSiteUseful)
 
    ​
 
